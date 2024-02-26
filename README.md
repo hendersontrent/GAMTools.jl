@@ -1,6 +1,6 @@
 # GAMTools
 
-Fit, evaluate, and visualise generalised additive models (GAMs) in native Julia
+Plotting and utility functions for the interpretation of GAMs in Julia
 
 ## Purpose
 
@@ -8,7 +8,7 @@ Fit, evaluate, and visualise generalised additive models (GAMs) in native Julia
 
 ## Development notes
 
-`GAMTools.jl` is very much a work in progress. Please check back for updates and new features or feel free to contribute yourself!
+**IMPORTANT:** `GAMTools.jl` is currently not functional until the next iteration of `GAM.jl` is complete. Please check back soon!
 
 ### Future pipeline
 
