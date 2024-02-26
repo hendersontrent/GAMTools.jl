@@ -1,4 +1,0 @@
-[deps]
-BSplines = "488c2830-172b-11e9-1591-253b8a7df96d"
-DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
-StatsPlots = "f3b207a7-027a-5e70-b257-86293d7955fd"
